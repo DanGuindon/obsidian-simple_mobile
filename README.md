@@ -1,5 +1,5 @@
-# Simple mobile theme
-Published for my own personal use as this was the easiest way to add the theme on my ipad mini. All are welcome to try.
+# Simple Mobile Theme
+Published mainly for my own use as this seemed like the simplest way to add a custom theme to an iOS device. All are welcome to try.
 
 This is a very simple variant of the default obsidian theme:
 - Changes to bold and italics increase visibility
